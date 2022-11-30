@@ -211,7 +211,7 @@ ul#menu li a:hover
   margin: 0 0 16px 0;}
 
 .sidebar_item
-{ background: #333 repeat-y;
+{ background: #000 repeat-y;
   padding: 0 5px;
   width: 192px;}
 
@@ -331,3 +331,13 @@ table tr td
 { background: #333;
   color: #47433F;
   border-top: 1px solid #FFF;}
+  
+.tag{
+    margin-right: 2px;
+    transition: margin 0.2s ease-in-out;
+    background-color: transparent;
+}
+
+.tag:hover {
+    margin-top: -2;
+}
