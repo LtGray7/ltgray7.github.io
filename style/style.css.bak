@@ -7,7 +7,7 @@ html
 
 body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
-  background: #000;
+  background: #FFF;
   color: #555;}
 
 p
