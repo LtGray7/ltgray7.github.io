@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <<link rel="icon" href="style\allseeingeye.png">
+  <<link rel="icon" href="style/allseeingeye.png">
   <title>Grays.Wrld</title>
   <meta name="description" content="website description" />
   <meta name="keywords" content="website keywords, website keywords" />
@@ -25,8 +25,8 @@
           <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
           <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About</a></li>
-          <li class="selected"><a href="blog.html">Blog</a></li>
-          <li><a href="gallery.html">Gallery</a></li>
+          <li<a href="blog.html">Blog</a></li>
+          <li class="selected">><a href="gallery.html">Gallery</a></li>
           <li><a href="bookshelf.html">Bookshelf</a></li>
         </ul>
       </div>
@@ -63,8 +63,8 @@
         <!-- insert the page content here -->
         <h1>Roblox</h1>
 		<h3>Check out my roblox adventures!</h3>
-<img src="\gallery\roblox\2021-09-30_5.png"></img>
-img src="\gallery\roblox\e142c98f84a7b148d7b8515a11ad42d7.png"></img>
+<img src="gallery/roblox/2021-09-30_5.png" width=600 height=500></img>
+<img src="gallery/roblox/e142c98f84a7b148d7b8515a11ad42d7.png"></img>
       </div>
     </div>
     <div id="content_footer"></div>

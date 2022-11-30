@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <<link rel="icon" href="style/allseeingeye.png">
+  <<link rel="icon" href="style\allseeingeye.png">
   <title>Grays.Wrld</title>
   <meta name="description" content="website description" />
   <meta name="keywords" content="website keywords, website keywords" />
@@ -61,10 +61,9 @@
       </div>
       <div id="content">
         <!-- insert the page content here -->
-        <h1>Roblox</h1>
-		<h3>Check out my roblox adventures!</h3>
-<img src="gallery/roblox/2021-09-30_5.png" width=600 height=500></img>
-<img src="gallery/roblox/e142c98f84a7b148d7b8515a11ad42d7.png"></img>
+        <h1>BLOG</h1>
+		<h3>Check out my blog!</h3>
+        <p><a href="113022.html">NEW WEBSITE LAUNCHED | November 30th, 2022</a></p>
       </div>
     </div>
     <div id="content_footer"></div>
