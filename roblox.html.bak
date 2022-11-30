@@ -63,12 +63,8 @@
         <!-- insert the page content here -->
         <h1>Roblox</h1>
 		<h3>Check out my roblox adventures!</h3>
-        <table>
-		<tr>
-		<td><img src="\gallery\roblox\2021-09-30_5.png"></td>
-		<td><img src="\gallery\roblox\e142c98f84a7b148d7b8515a11ad42d7.png"></td>
-		</tr>
-		</table>
+<img src="\gallery\roblox\2021-09-30_5.png"></img>
+img src="\gallery\roblox\e142c98f84a7b148d7b8515a11ad42d7.png"></img>
       </div>
     </div>
     <div id="content_footer"></div>
