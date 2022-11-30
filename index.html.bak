@@ -15,8 +15,8 @@
       <div id="logo">
         <div id="logo_text">
           <!-- class="logo_colour", allows you to change the colour of the text -->
-          <h1><a href="index.html">Grays<span class="logo_colour">Wrld</span></a></h1>
-          <h2>Even in the sheath, the sword must be sharp</h2>
+          <h1><a href="index.html">simple<span class="logo_colour">style_purple</span></a></h1>
+          <h2>Simple. Contemporary. Website Template.</h2>
         </div>
       </div>
       <div id="menubar">
