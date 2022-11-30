@@ -1,8 +1,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Gray's Database</title>
     
-    <link rel="stylesheet" type="text/css" href="database/style.css" />
-    <link rel="stylesheet" type="text/css" href="database/1" />
+    
     
     <script type="text/javascript" async="" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--javascript/init.combined.js"></script>
    
@@ -672,11 +671,11 @@ Hopefully temporary kludge THANKS GREENWOLF
 
 <div style="text-align: center;"><img src="http://scp-wiki.wdfiles.com/local--files/main/250_logo.png" height="0" width="0" alt="250_logo.png" class="image"></div>
 
-<h1>TALE-HUB-01</h1>
+<h1>SCP-HUB-01</h1>
 <div class="content-panel centered standalone"></div>
 <div class="news-block content-panel">
 <div class="panel-heading">
-<p>Tales<br></p>
+<p>SCPs<br></p>
 </div>
 <div class="panel-body">
 <div class="alternate unmargined">

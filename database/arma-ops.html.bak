@@ -667,31 +667,79 @@ Hopefully temporary kludge THANKS GREENWOLF
 
 
 
+                    <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+
+                    
+
+                    
+
+
+
                     <div id="page-content">
                         
 
-<div style="text-align: center;"><img src="http://scp-wiki.wdfiles.com/local--files/main/250_logo.png" height="0" width="0" alt="250_logo.png" class="image"></div>
-
-<h1>TALE-HUB-01</h1>
+<div style="text-align: center; color: #000000;">
+<div class="unmargined">
+<p>ABOUT MY</p>
+</div>
+<div class="unmargined" style="font-size: 400%; font-weight: bold; margin: 2px 0 5px;">
+<p>SCP OPERATIONS</p>
+</div>
+<div class="unmargined"></div>
+</div>
 <div class="content-panel centered standalone"></div>
+<hr>
 <div class="news-block content-panel">
 <div class="panel-heading">
-<p>Tales<br></p>
+<p>SCP Operations<br></p>
 </div>
 <div class="panel-body">
 <div class="alternate unmargined">
 <div class="news-content">
-<p>Nothing to see here yet!<br>
+<p>If you're into Arma 3 and ever wanna try joining one of my SCP operations, feel free to shoot me a message.<br>
+<br>
+You can find our Discord server at <a href="https://discord.gg/6BtpAtA3">https://discord.gg/6BtpAtA3</a>.<br></p>
 </div>
 <br></div>
 <br></div>
 <div class="panel-footer">
-<p>This wiki is a personal project to hold my own works.<br></p>
+<p>P.S. MTF Operations seem really difficult to simulate in ArmA, send mental support ASAP.<br></p>
 </div>
 </div>
-<div class="feature-block">
+<div class="news-block content-panel">
+<div class="panel-heading">
+<p>Completed Operations<br></p>
+</div>
+<div class="panel-body">
+<div class="alternate unmargined">
+<div class="news-content">
+<ul>
+<li>[<a href="#">Operation: </a>]</li>
+<li>[<a href="#">Operation: </a>]</li>
+<li>[<a href="#">Operation: </a>]</li>
+</ul>
+</div>
+<br></div>
+<br></div>
+<div class="panel-footer">
+<p>All Operations listed here are ones that we have already completed.<br></p>
 </div>
 </div>
+<hr>
+
+
+
+                    </div>
+
+          
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
 
 
 
