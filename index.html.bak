@@ -86,15 +86,15 @@
 			</tr>
 			<tr>
 			<td><img src="Stamps/clubpenguindance.gif"></td>
-			<td><img src="stamps/petscop.png"></td>
+			<td><img src="stamps\petscop.png"></td>
 			</tr>
 			<tr>
-			<td><img src="stamps/paranormal.gif"></td>
-			<td><img src="stamps/lisafrankstamp.png"></td>
+			<td><img src="stamps\paranormal.gif"></td>
+			<td><img src="stamps\lisafrankstamp.png"></td>
 			</tr>
 			<tr>
-			<td><img src="stamps/spicyfood.gif"></td>
-			<td><img src="stamps/wonkabar.gif"></td>
+			<td><img src="stamps\spicyfood.gif"></td>
+			<td><img src="stamps\wonkabar.gif"></td>
 			</tr>
 			</table>
           </div>
