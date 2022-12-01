@@ -10,7 +10,7 @@
   <link rel="stylesheet" type="text/css" href="style/style.css" />
 </head>
 <body>
-        <center><h1><small><font face="VCR OSD MONO">Bookshelf</font></small></h1></center>
+        <center><header><h1><small><font face="VCR OSD MONO">Bookshelf</font></small></h1></header></center>
         <div class="spacer">
         </div>
         <div id="container" style="background: none;">
