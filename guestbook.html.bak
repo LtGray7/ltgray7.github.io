@@ -80,6 +80,7 @@ Comments: <br><textarea name=Comments rows=5 cols=60>
 <!--GUESTBOOK-->
 <!--GUESTBOOK-->
 
+<hr noshade>
       </div>
     </div>
     <div id="content_footer"></div>
