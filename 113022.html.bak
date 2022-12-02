@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <link rel="icon" href="style\allseeingeye.png">
+  <<link rel="icon" href="style\allseeingeye.png">
   <title>Grays.Wrld</title>
   <meta name="description" content="website description" />
   <meta name="keywords" content="website keywords, website keywords" />
@@ -25,10 +25,9 @@
           <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
           <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About</a></li>
-          <li><a href="blog.html">Blog</a></li>
+          <li class="selected"><a href="blog.html">Blog</a></li>
           <li><a href="gallery.html">Gallery</a></li>
           <li><a href="bookshelf.html">Bookshelf</a></li>
-		  <li class="selected"><a href="guestbook.html">Guestbook</a></li>
         </ul>
       </div>
     </div>
@@ -42,7 +41,7 @@
              <h3>Latest News</h3>
             <h4>New Website Launched</h4>
             <h5>November 30th, 2022</h5>
-            <p>Howdy ppls! I moved my site from neocities to GitHub as it's more useful. I will have some things from the old site but this is an entire site redesign.<br /><a href="113022.html">Read more</a></p>
+            <p>Howdy ppls! I moved my site from neocities to GitHub as it's more useful. I will have some things from the old site but this is an entire site redesign.<br /><a href="#">Read more</a></p>
           </div>
           <div class="sidebar_base"></div>
         </div>
@@ -50,13 +49,11 @@
           <div class="sidebar_top"></div>
           <div class="sidebar_item">
            <h3>Links</h3>
-             <ul>
+            <ul>
               <li><a href="https://discord.gg/kfkGw2HRdK">Discord</a></li>
               <li><a href="https://www.youtube.com/channel/UCq_FLAb1W7pF8mhYxC_QLEw">Youtube</a></li>
               <li><a href="https://twitter.com/LtGray7">Twitter</a></li>
               <li><a href="https://steamcommunity.com/id/GNFFORLIFE/">Steam</a></li>
-			  <li><a href="database.html">Database</a></li>
-			  <li><a href="https://github.com/stars/LtGray7/lists/archives">Archives</a></li>
             </ul>
           </div>
           <div class="sidebar_base"></div>
@@ -64,23 +61,11 @@
       </div>
       <div id="content">
         <!-- insert the page content here -->
-        <h1>GUESTBOOK</h1>
-		<hr>
-<form method=post action="/cgi-bin/guestBook.pl">
-<input type=hidden name=fields value="Name,Email,Comments">
-Name: <input type=text name=Name><br>
-Email Address: <input type=text name=Email><br>
-Comments: <br><textarea name=Comments rows=5 cols=60>
-</textarea><br>
-<input type=submit value="Submit">
-</form>
-<hr noshade>
-
-<!--GUESTBOOK-OPTIONS: maxEntries=10-->
-<!--GUESTBOOK-->
-<!--GUESTBOOK-->
-
-<hr noshade>
+        <h1>NEW WEBSITE LAUNCHED</h1>
+		<h3>November 30th, 2022</h3>
+        <p>Howdy ppls! I moved my site from neocities to GitHub as it's more useful. I will have some things from the old site but this is an entire site redesign.</p>
+        <p>I'm still gonna post my blog and gallery but the e-shrines will be on hold as I will be moving soon and won't have time to make them as it takes me a good hour or so to make a page.</p>
+		<p>Well, I'm gonna stop it here so enjoy the holidays and be ready for Christmas!</p>
       </div>
     </div>
     <div id="content_footer"></div>
