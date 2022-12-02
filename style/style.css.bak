@@ -7,7 +7,7 @@ html
 
 body
 { font: normal .80em 'VCR OSD Mono', arial, sans-serif;
-  background: #000;
+  background: url('gifs/space4.gif');
   color: #555;}
 
 p
@@ -338,8 +338,8 @@ table tr td
   margin: 0 auto;
 }
 .zoom-without-container img{
-	width:10%;
-	height:auto;	
+	width:46px;
+	height:235px;	
 }
 .zoom-without-container:hover {
   transform: scale(1.5); 

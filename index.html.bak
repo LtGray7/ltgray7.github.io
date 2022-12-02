@@ -11,8 +11,8 @@
 </head>
 
 <style>
-body, header, footer{
-background-image: url('gifs/exilebg7.png');
+main{
+background-image: url('gifs/space4.gif');
 }
 </style>
 
