@@ -10,12 +10,6 @@
   <link rel="stylesheet" type="text/css" href="style/style.css" />
 </head>
 
-<style>
-main{
-background-image: url('gifs/space4.gif');
-}
-</style>
-
 <body>
   <div id="main">
     <div id="header">
