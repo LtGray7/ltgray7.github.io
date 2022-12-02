@@ -26,9 +26,9 @@
           <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="blog.html">Blog</a></li>
-          <li class="selected"><a href="gallery.html">Gallery</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
           <li><a href="bookshelf.html">Bookshelf</a></li>
-		  <li><a href="guestbook.html">Guestbook</a></li>
+		  <li class="selected"><a href="guestbook.html">Guestbook</a></li>
         </ul>
       </div>
     </div>
@@ -64,11 +64,22 @@
       </div>
       <div id="content">
         <!-- insert the page content here -->
-        <h1>GALLERY</h1>
-		<h3>Check out my gallery!</h3>
-        <p><a href="roblox.html">Roblox</a></p>
-		<p><a href="vrchat.html">VRChat</a></p>
-		<p><a href="source.html">Source</a></p>
+        <h1>GUESTBOOK</h1>
+		<hr>
+<form method=post action="/cgi-bin/guestBook.pl">
+<input type=hidden name=fields value="Name,Email,Comments">
+Name: <input type=text name=Name><br>
+Email Address: <input type=text name=Email><br>
+Comments: <br><textarea name=Comments rows=5 cols=60>
+</textarea><br>
+<input type=submit value="Submit">
+</form>
+<hr noshade>
+
+<!--GUESTBOOK-OPTIONS: maxEntries=10-->
+<!--GUESTBOOK-->
+<!--GUESTBOOK-->
+
       </div>
     </div>
     <div id="content_footer"></div>

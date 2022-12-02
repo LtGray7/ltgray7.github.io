@@ -10,8 +10,25 @@
   <link rel="stylesheet" type="text/css" href="style/style.css" />
 </head>
 <body>
-        <center><header><h1><small><font face="VCR OSD MONO">Bookshelf</font></small></h1></header></center>
+<div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <font face="VCR OSD MONO"><h1><a href="https://ltgray7.github.io">Grays<span class="logo_colour">.Wrld</span></a></h1></font>
+          <h2>Even in the sheath, the sword must be sharp</h2>
+        </div>
+      </div>
+        <center><h1><small><font face="VCR OSD MONO">Bookshelf</font></small></h1></center>
         <div class="spacer">
+		<div id="menubar">
+        <center><ul id="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
+          <li class="selected"><a href="bookshelf.html">Bookshelf</a></li>
+		  <li><a href="guestbook.html">Guestbook</a></li>
+        </ul></center>
+      </div>
         </div>
         <div id="container" style="background: none;">
         </div>
@@ -27,7 +44,6 @@
             <iframe name="frame_1" src="bookshelf/txt/ascii.txt" width="800" height="500"></iframe>
         </div></center>
 		<hr style="height:5px;border-width:0;color:transparent">
-        <center><a href="index.html"><font face="VCR OSD MONO">Back</font></a></center>
         <div id="content_footer"></div>
     <div id="footer">
       <p>Copyright &copy; LtGray | <a href="mailto:grayeatsshit@gmail.com">Email</a></p>

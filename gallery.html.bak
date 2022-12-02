@@ -50,13 +50,11 @@
           <div class="sidebar_top"></div>
           <div class="sidebar_item">
            <h3>Links</h3>
-             <ul>
+            <ul>
               <li><a href="https://discord.gg/kfkGw2HRdK">Discord</a></li>
               <li><a href="https://www.youtube.com/channel/UCq_FLAb1W7pF8mhYxC_QLEw">Youtube</a></li>
               <li><a href="https://twitter.com/LtGray7">Twitter</a></li>
               <li><a href="https://steamcommunity.com/id/GNFFORLIFE/">Steam</a></li>
-			  <li><a href="database.html">Database</a></li>
-			  <li><a href="https://github.com/stars/LtGray7/lists/archives">Archives</a></li>
             </ul>
           </div>
           <div class="sidebar_base"></div>
