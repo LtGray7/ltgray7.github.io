@@ -37,9 +37,9 @@
     <div id="site_content">
       <div id="sidebar_container">
         <div class="sidebar">
+		           <h3>Links</h3>
           <div class="sidebar_top"></div>
           <div class="sidebar_item">
-           <h3>Links</h3>
             <ul>
               <li><a href="https://discord.gg/kfkGw2HRdK">Discord</a></li>
               <li><a href="https://www.youtube.com/channel/UCq_FLAb1W7pF8mhYxC_QLEw">Youtube</a></li>
