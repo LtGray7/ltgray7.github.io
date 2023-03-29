@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <link rel="icon" href="style\allseeingeye.png">
+  <<link rel="icon" href="style\allseeingeye.png">
   <title>Grays.Wrld</title>
   <meta name="description" content="website description" />
   <meta name="keywords" content="website keywords, website keywords" />
@@ -21,14 +21,14 @@
         </div>
       </div>
       <div id="menubar">
-       <ul id="menu">
+     <ul id="menu">
           <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
           <img src="gifs/63.gif">
-          <li><a href="home.html">Home</a></li>
+         <li><a href="home.html">Home</a></li>
           <li><a href="about.html">About</a></li>
-          <li><a href="blog.html">Blog</a></li>
+          <li class="selected"><a href="blog.html">Blog</a></li>
           <li><a href="gallery.html">Gallery</a></li>
-          <li class="selected"><a href="projects.html">Projects</a></li>
+          <li><a href="projects.html">Projects</a></li>
           <li><a href="favoritegames.html">Fav Games</a></li>
           <li><a href="bookshelf.html">Bookshelf</a></li>               
         </ul>
@@ -38,30 +38,19 @@
     <div id="site_content">
       <div id="sidebar_container">
         <div class="sidebar">
-					<h3>Latest News</h3>
-          <div class="sidebar_top"></div>
-          <div class="sidebar_item">
-            <!-- insert your sidebar items here -->
-             <h4>Howdy again lol!!!</h4>
-            <h5>March 29th, 2023</h5>
-            <p>So, I know my blog has kinda been dead for a bit cuz alot of personal biz and I got a girl to take care of so my attention isnt always on my pc like it used to-<br /><a href="blog/32923.html">Read more</a></p>
-          </div>
-          <div class="sidebar_base"></div>
         </div>
-        
         <div class="sidebar">
-		<h3>Links</h3>
           <div class="sidebar_top"></div>
           <div class="sidebar_item">
+           <h3>Links</h3>
             <ul>
               <li><a href="https://discord.gg/kfkGw2HRdK">Discord</a></li>
               <li><a href="https://www.youtube.com/channel/UCq_FLAb1W7pF8mhYxC_QLEw">Youtube</a></li>
               <li><a href="https://twitter.com/LtGray7">Twitter</a></li>
               <li><a href="https://steamcommunity.com/id/GNFFORLIFE/">Steam</a></li>
-              <li><a href="https://spacehey.com/ltgray">SpaceHey</a></li>
+			  <li><a href="database.html">Database</a></li>
 			  <li><a href="https://github.com/stars/LtGray7/lists/archives">Archives</a></li>
 			  <li><a href="https://www.yourworldoftext.com/~LtGray/GraysWrld">Wall of Text</a></li>
-			  		  <li><a href="http://users3.smartgb.com/g/g.php?a=s&i=g36-34088-a0">Guestbook</a></li>
             </ul>
           </div>
           <div class="sidebar_base"></div>
@@ -69,12 +58,14 @@
       </div>
       <div id="content">
         <!-- insert the page content here -->
-        <h1>PROJECTS</h1>
-		<h3>Check out my projects.</h3>
-        <ul>
-        <li><p><a href="tapes.html">BR: Lost Tapes</a></p></li>
-		<li><p><a href="sdk.html">Source SDK</a></p></li>
-      </ul>
+        <h1>Merry Late Christmas & A Happy New Year!</h1>
+		<h3>December 30th, 2022</h3>
+		<p><font face="VCR OSD MONO"><b>Mood:</b> Chill <img src="gifs/happy.gif" width="20" hight="20"></font></p>
+<p><font face="VCR OSD MONO"><b>Music:</b> Juice WRLD - Not Enough <a href="https://www.youtube.com/watch?v=0BmQc1dBp1k">(listen)</a></font></p>
+<hr>
+        <p>Howdy everyone! Sorry for lack of post, had the holidays to worry about and I've been busy doing playthroughs of Alice & SOMA.</p>
+        <p>I hope everyone had a great christmas/holiday and can't wait for the big year <b>2023!</b></p>
+		<p>Anyways, have a great day/night and I hope you are enjoying whatever you are doing and the gifts you got during Christmas! LtGray over and out!</p>
       </div>
     </div>
     <div id="content_footer"></div>

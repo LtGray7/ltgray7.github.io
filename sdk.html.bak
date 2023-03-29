@@ -4,12 +4,16 @@
 <head>
   <link rel="icon" href="style\allseeingeye.png">
   <title>Grays.Wrld</title>
-  <meta name="description" content="website description" />
+  <meta name="description" content="My Source Maps" />
   <meta name="keywords" content="website keywords, website keywords" />
   <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
   <link rel="stylesheet" type="text/css" href="style/style.css" />
 </head>
-
+<style>
+hr {
+  border: 5px solid transparent;
+}
+</style>
 <body>
   <div id="main">
     <div id="header">
@@ -38,30 +42,27 @@
     <div id="site_content">
       <div id="sidebar_container">
         <div class="sidebar">
-					<h3>Latest News</h3>
           <div class="sidebar_top"></div>
-          <div class="sidebar_item">
+ <div class="sidebar_item">
             <!-- insert your sidebar items here -->
-             <h4>Howdy again lol!!!</h4>
-            <h5>March 29th, 2023</h5>
-            <p>So, I know my blog has kinda been dead for a bit cuz alot of personal biz and I got a girl to take care of so my attention isnt always on my pc like it used to-<br /><a href="blog/32923.html">Read more</a></p>
+              <h3>Latest News</h3>
+             <h4>Merry Late Christmas & A Happy New Year!</h4>
+            <h5>December 30th, 2022</h5>
+            <p>Howdy everyone! Sorry for lack of post, had the holidays to worry about and I've been busy doing playthroughs of Alice & SOMA.<br /><a href="123022.html">Read more</a></p>
           </div>
           <div class="sidebar_base"></div>
         </div>
-        
         <div class="sidebar">
-		<h3>Links</h3>
           <div class="sidebar_top"></div>
           <div class="sidebar_item">
-            <ul>
+           <h3>Links</h3>
+             <ul>
               <li><a href="https://discord.gg/kfkGw2HRdK">Discord</a></li>
               <li><a href="https://www.youtube.com/channel/UCq_FLAb1W7pF8mhYxC_QLEw">Youtube</a></li>
               <li><a href="https://twitter.com/LtGray7">Twitter</a></li>
               <li><a href="https://steamcommunity.com/id/GNFFORLIFE/">Steam</a></li>
-              <li><a href="https://spacehey.com/ltgray">SpaceHey</a></li>
 			  <li><a href="https://github.com/stars/LtGray7/lists/archives">Archives</a></li>
 			  <li><a href="https://www.yourworldoftext.com/~LtGray/GraysWrld">Wall of Text</a></li>
-			  		  <li><a href="http://users3.smartgb.com/g/g.php?a=s&i=g36-34088-a0">Guestbook</a></li>
             </ul>
           </div>
           <div class="sidebar_base"></div>
@@ -69,12 +70,32 @@
       </div>
       <div id="content">
         <!-- insert the page content here -->
-        <h1>PROJECTS</h1>
-		<h3>Check out my projects.</h3>
-        <ul>
-        <li><p><a href="tapes.html">BR: Lost Tapes</a></p></li>
-		<li><p><a href="sdk.html">Source SDK</a></p></li>
-      </ul>
+        <h1>SOURCE SDK</h1>
+		<h3>Check out my sdk projects.</h3>
+    <center><h4>Helpful Links</h4></center>
+<center><a href="https://www.interlopers.net">Interlopers</a> | <a href="https://www.youtube.com/@3kliksphilip">3kliksphilip</a> | <a href="https://discord.gg/zVRDgWU">Hammer Editor Discord Group</a></center>
+<hr>
+<img src="gifs/cooltext411974553854256.gif">
+<table>
+<tr>
+<td><center><img src="https://steamuserimages-a.akamaihd.net/ugc/5081780833972931861/002CAC94924D71021DD2439F0AD6E00CC4190AAB/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></center>
+<center><h5><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2904893123">Arena</a></h5></center></td>
+<tr>
+<td><center><img src="https://steamuserimages-a.akamaihd.net/ugc/1779463285514698700/A7DFBF9628F1C8AB9338CD0951FF137C2D0576BD/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></center>
+<center><h5><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2488545019">Management</a></h5></center></td>
+<hr>
+<td><center><img src="https://steamuserimages-a.akamaihd.net/ugc/1755821631933822675/CAFD62B7786C2223CC574466DECCBF375479FA00/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></center>
+<center><h5><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2510500003">gm_serverroom</a></h5></center></td>
+</tr>
+<hr>
+<tr>
+<td><center><img src="https://steamuserimages-a.akamaihd.net/ugc/1788471362466292517/8F8E803E6D4389DB238E338DFF66D0A7AB062A15/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></center>
+<center><h5><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2495887111">Rain</a></h5></center></td>
+<hr>
+<td><center><img src="https://steamuserimages-a.akamaihd.net/ugc/948463478487221631/78D81C5F7DB558088243B26E0F8030A398F00B8A/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></center>
+<center><h5><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1536515849">Primorski</a></h5></center></td>
+</tr>
+</table>
       </div>
     </div>
     <div id="content_footer"></div>

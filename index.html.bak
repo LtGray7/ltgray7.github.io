@@ -6,7 +6,7 @@
   <meta name="description" content="This is where I put the occassional blog posts, archives of files, pictures, and other things." />
   <meta name="keywords" content="personal, blog" />
   <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
-  <link rel="stylesheet" type="text/css" href="style/style.css" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="refresh" content="300">
 </head>
@@ -44,8 +44,8 @@ body
       <center><img src="style/HomeofLtGray.png" align=center width=540 height=540></center>
       <center>[<a href="home.html">Enter</a>]</center>
       
-      <center><audio controls autoplay>
-  <source src="music/rises the moon.mp3" type="audio/mpeg" controls="false">
+      <center><audio autoplay>
+  <source src="music/rises the moon.mp3" type="audio/mpeg" controls="false" autoplay="true">
 Your browser does not support the audio element.
 </audio></center>
     
