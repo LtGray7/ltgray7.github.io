@@ -37,8 +37,8 @@
         </div>
         <center><div id="container" style="width: 50%;">
             <h1><font face="VCR OSD MONO"></font></h1>
-            <div><img src="https://ltgray.neocities.org/books/moxxieplush.png" width=200 height=300><img src="https://ltgray.neocities.org/books/yodaplush.png" width=300 height=300></div>
-            <h1><font face="VCR OSD MONO"><img src="https://ltgray.neocities.org/books/image(1).png"><img src="https://ltgray.neocities.org/books/image(1).png"></font></h1>
+            <div><img src="books/moxxieplush.png" width=200 height=300><img src="books/yodaplush.png" width=300 height=300></div>
+            <h1><font face="VCR OSD MONO"><img src="books/image(1).png"><img src="books/image(1).png"></font></h1>
             <nav>	
                <p style="color:white;"><font face="VCR OSD MONO">Manuals</font><p>
               <a href="bookshelf/txt/vrml97specification.pdf" target="frame_1"><font face="VCR OSD MONO"><img src="books/vrml.png"></font></a>  <a href="bookshelf/txt/Programming.in.Lua.4th.Edition.2016.8.pdf" target="frame_1"><font face="VCR OSD MONO"><img src="books/lua.png"></font></a> <a href="bookshelf/txt/ascii.txt" target="frame_1"><font face="VCR OSD MONO"><img src="books/na.png"></font></a>
