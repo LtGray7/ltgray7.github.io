@@ -44,8 +44,10 @@ body
       <center><img src="style/HomeofLtGray.png" align=center width=540 height=540></center>
       <center>[<a href="home.html">Enter</a>]</center>
       
-      <center><iframe width="0" height="0" src="https://www.youtube.com/embed/5e1zT7miep8//?&amp;;amp;;autoplay=1&amp;;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
-</iframe></center>
+      <center><audio controls autoplay>
+  <source src="music/rises the moon.mp3" type="audio/mpeg" controls="false">
+Your browser does not support the audio element.
+</audio></center>
     
     <hr style="width:0%">
     <hr style="width:0%">
