@@ -7,15 +7,12 @@ html
 
 body
 { font: normal .80em 'VCR OSD Mono', arial, sans-serif;
-  background: #000;
-  color: #555;}
+  background: transparent url(https://thumbs.gfycat.com/BasicWeightyFeline-size_restricted.gif);
+  color: #fff;}
 
 p
 { padding: 0 0 20px 0;
   line-height: 1.7em;}
-
-hr
-{color: transparent;}
 
 img
 { border: 0;}
@@ -109,7 +106,7 @@ ol li
   width: 870px;
   height: 180px;
   margin-bottom: 20px;
-  border: 5px solid #333;}
+  border: 5px solid #000002;}
 
 #logo
 { width: 880px;
@@ -184,7 +181,7 @@ ul#menu li.selected a, ul#menu li.selected a:hover
   color: #FFF;}
 
 ul#menu li a:hover
-{ color: #FFF;
+{ color: #fcfcfc;
   background: #555;}
 
 #site_content
@@ -194,18 +191,18 @@ ul#menu li a:hover
   padding: 0 0 10px 0;} 
 
 #sidebar_container
-{ float: right;
-  width: 224px;}
+{ float: left;
+  width: 223px;}
 
 .sidebar_top
 { width: 222px;
   height: 14px;
-  background: transparent url(side_top.png) no-repeat;}
+  background: transparent url(divider.png) no-repeat;}
 
 .sidebar_base
 { width: 222px;
   height: 14px;
-  background: url(side_base.png) no-repeat;}
+  background: url(divider.png) no-repeat;}
 
 .sidebar
 { float: right;
@@ -214,7 +211,7 @@ ul#menu li a:hover
   margin: 0 0 16px 0;}
 
 .sidebar_item
-{ background: #000 repeat-y;
+{ background: transparent repeat-y;
   padding: 0 5px;
   width: 192px;}
 
@@ -225,10 +222,10 @@ ul#menu li a:hover
 { margin: 0;} 
 
 #content
-{ text-align: left;
-  width: 620px;
-  padding: 0 0 0 5px;
-  float: left;}
+{ text-align: center;
+  width: 650px;
+  padding: 0 0 0 6px;
+  float: right;}
   
 #content ul
 { margin: 2px 0 22px 0px;}
@@ -247,8 +244,8 @@ ul#menu li a:hover
   height: 80px;
   padding: 28px 0 5px 0;
   text-align: center; 
-  background: #000;
-  border-top: 2px solid #5d5d5d;
+  background: transparent url(https://thumbs.gfycat.com/BasicWeightyFeline-size_restricted.gif);
+  border-top: 2px solid transparent;
   color: #FFF;}
 
 #footer p
@@ -331,9 +328,9 @@ table tr th, table tr td
   text-align: left;}
   
 table tr td
-{ background: #333;
+{ background: transparent;
   color: #47433F;
-  border-top: 1px solid #FFF;}
+  border-top: 0px solid transparent;}
   
   /* Without Container */
 .zoom-without-container {
@@ -347,4 +344,20 @@ table tr td
 .zoom-without-container:hover {
   transform: scale(1.5); 
   /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+#statuscafe {
+    padding: .5em;
+    background-color: transparent;
+    border: 0px solid transparent;
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
+
+a {
+  text-decoration: none
 }
