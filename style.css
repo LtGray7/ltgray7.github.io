@@ -240,7 +240,7 @@ ul#menu li a:hover
 { text-align: center;
   width: 650px;
   padding: 0 0 0 6px;
-  float: right;}
+  float: center;}
   
 #content ul
 { margin: 2px 0 22px 0px;}
