@@ -186,7 +186,7 @@ ul#menu li a:hover
 
 #site_content
 { width: 880px;
-  overflow: hidden;
+  overflow: visible;
   margin: 20px auto 0 auto;
   padding: 0 0 10px 0;} 
 
