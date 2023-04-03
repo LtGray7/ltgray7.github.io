@@ -99,11 +99,11 @@
         </div>
         
         <div class="sidebar">
-		            <h3>Discord!</h3>
+		            <h3>Pet!</h3>
           <div class="sidebar_top"></div>
           <div class="sidebar_item">
-            <iframe src="https://discord.com/widget?id=1047324450313490432&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-			</iframe>
+            <iframe width="400" height="320" scrolling="no" src="https://gifypet.neocities.org/pet/pet.html?name=Pika&dob=1680095029&gender=m&element=Earth&pet=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1086759898055987232%2F1090460949753901076%2Fpika.gif&map=ozwomp.jpg&background=&tablecolor=black&textcolor=%23a600ff" frameborder="0" align="center">
+            </iframe>
           </div>
           <div class="sidebar_base"></div>
         </div>
