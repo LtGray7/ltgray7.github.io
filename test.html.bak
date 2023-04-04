@@ -68,7 +68,7 @@
     </form>
   </div>
   <div id="vrml">
-    <embed src="test.wrl" type="x-world/x-vrml" />
+    <embed src="myvrml.wrl" type="x-world/x-vrml" />
   </div>
   <script>
     const socket = new WebSocket('ws://localhost:8000');
